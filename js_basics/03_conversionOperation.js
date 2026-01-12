@@ -42,5 +42,5 @@ let number = 100
 ++number
 console.log(number)
 
-//learn about prefix,postfix and more operators
+//learn about prefix,postfix and more operators on ECMASCRIPT
 */
